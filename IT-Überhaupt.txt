@@ -20,3 +20,6 @@ Ghostscript ist eine freie Software zur Verarbeitung von PDF- und PostScript-Dat
 # 4 Elasticsearch
 Elasticsearch ist eine Open-Source-Such- und Analyse-Engine, die auf der Volltextsuche basiert.
 
+# 5 Abby FineReader
+ABBYY FineReader gehört zur Firma ABBYY, einem internationalen Softwareunternehmen mit Hauptsitz in Milpitas, Kalifornien (USA). Die Firma wurde ursprünglich in Moskau (Russland) gegründet und ist heute weltweit aktiv
+
