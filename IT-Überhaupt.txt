@@ -17,3 +17,6 @@ General Public License
 # 3 Ghostscript
 Ghostscript ist eine freie Software zur Verarbeitung von PDF- und PostScript-Dateien. Die „GPL Ghostscript“-Version ist die unter der GNU General Public License veröffentlichte Variante. 
 
+# 4 Elasticsearch
+Elasticsearch ist eine Open-Source-Such- und Analyse-Engine, die auf der Volltextsuche basiert.
+
