@@ -22,4 +22,5 @@ Elasticsearch ist eine Open-Source-Such- und Analyse-Engine, die auf der Volltex
 
 # 5 Abby FineReader
 ABBYY FineReader gehört zur Firma ABBYY, einem internationalen Softwareunternehmen mit Hauptsitz in Milpitas, Kalifornien (USA). Die Firma wurde ursprünglich in Moskau (Russland) gegründet und ist heute weltweit aktiv
+Gründer: David Yang
 
