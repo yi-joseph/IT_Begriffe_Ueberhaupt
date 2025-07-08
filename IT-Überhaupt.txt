@@ -1,0 +1,12 @@
+# 1 Typen von Update-Dateien
+1) Hotfix: einzelne Fehlerbehebung durch einen kleinen Software-Patch. 
+            Umfang: sehr klein. 
+
+2) Patch: mehrere Fehlerbehebung durch einen kleinen oder mittlen Software-Patch. 
+            Umfang: Klein / Mittel
+
+3) Service Pack: Viele Fehlerbehebungen + Verbesserungen
+            Umfang: Groß
+
+4) Feature-Update: Neue Funktionen + Verbesserungen
+            Umgang: Groß/Komplett
