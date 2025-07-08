@@ -10,3 +10,10 @@
 
 4) Feature-Update: Neue Funktionen + Verbesserungen
             Umgang: Groß/Komplett
+
+# 2 GNU
+General Public License
+
+# 3 Ghostscript
+Ghostscript ist eine freie Software zur Verarbeitung von PDF- und PostScript-Dateien. Die „GPL Ghostscript“-Version ist die unter der GNU General Public License veröffentlichte Variante. 
+
